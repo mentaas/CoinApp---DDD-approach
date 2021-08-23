@@ -1,0 +1,8 @@
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.deps.json
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.dll
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\bin\Debug\netcoreapp3.1\CoinApp.Domain.pdb
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.AssemblyInfo.cs
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.dll
+C:\Users\Mentor Shy\source\repos\CoinApp\CoinApp.Domain\obj\Debug\netcoreapp3.1\CoinApp.Domain.pdb
